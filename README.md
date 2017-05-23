@@ -1,5 +1,5 @@
 ## Rainfo.TV
-www.Rainfo.TV is een website van Jordi Roodenburg waar gebruikers gameplay en andere informatie bedoeld voor de spelers en geintereceerden in de game Rainbow Six Siege (by U-play)
+www.Rainfo.TV is een website van Jordi Roodenburg waar gebruikers (Doelgroep voornamelijk mannen) gameplay en andere informatie bedoeld voor de spelers en geintereceerden in de game Rainbow Six Siege (by U-play)
 De website is enigszins te vergelijken met de officiele Rainbow Six Siege Website of de officiele Battlefield (by Dice) website maar toch anders omdat er op Rainfo ook een forum gelegenheid is.
 
 ### Uniek aan dit concept is: 
@@ -11,7 +11,7 @@ De website is enigszins te vergelijken met de officiele Rainbow Six Siege Websit
 | Milestone  | Status | Link | Type Document of cloudservice |
 | ------ |  ------ | ------ | ------ |
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
-| b1-k1-w1 debriefing            | TODO | [Debriefing]            | Google Doc Comment enabled |
+| b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
 | b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
@@ -22,8 +22,8 @@ De website is enigszins te vergelijken met de officiele Rainbow Six Siege Websit
 | b1-k1-w2 prototype             | TODO | [axShare]               | Axshare link |
 
    [readme.md]: <https://github.com/JRoodenburg/MyBandStarter/blob/master/README.md>
-   [Leidraad_uitgangspunt.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
-   [Debriefing]: <https://docs.google.com/document/u/0/>
+   [Leidraad_uitgangspunt.md]: <https://github.com/JRoodenburg/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
+   [Debriefing]: <https://docs.google.com/document/d/1Mp6vGkDmcpq8uUKAiWGJF0m14qyNxp_DJnRB8dqki2Q/edit?usp=sharing>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
    [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
