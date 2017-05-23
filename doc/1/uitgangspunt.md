@@ -2,10 +2,10 @@
 * keuze artiest, festival? etc.. 
 Keuze: Rainbow Six Siege.
 * Wordt het fictief? 
-Rainbow Six Siege is een game gebaseerd op de realiteit.
+Rainbow Six Siege is een game gebaseerd op de realiteit, fictief: Nee.
 
 * Ga je een bestaande site als uitgangspunt nemen?
-Nee.
+Nee, ik bouw deze vanaf de grond af naar mijn eigen idee/ideeën.
 * hoe uitgebreid wil je het maken?
 Ik probeer een zo goed mogelijke user experience te creeren, verdere uitbreidingen komen daarna.
 
@@ -15,7 +15,8 @@ Andere fps games, Bijvoorbeeld CS:GO & Battlefield
 * de doelgroep(en)
 Tieners tussen de 17/25
 * diensten.
-n.v.t
+andere forum mogelijkheden
+
 
 Resultaat: voorbereiding op gesprek met opdrachtgever
 

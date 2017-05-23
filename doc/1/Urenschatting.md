@@ -23,7 +23,7 @@ Ga je naar de planning, dan heb je hier veel aan.
 ##### Aspect 1
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
-| schrijven debriefing           |1x       | 1 | 
+| schrijven debriefing           |1x       | 2 | 
 | Analyse concurrentie           |2x       |  2 | 
 | Verzinnen U.S.P.               | 2x      |   2|
 | Technisch onderzoek            |?x       | 1 | 
@@ -42,44 +42,44 @@ Ga je naar de planning, dan heb je hier veel aan.
 ##### Aspect 2
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
-| maken E.R.D.                               |       |   |
-| opzetten DATABASE.                         |       |   |
-| Basic CRUD                                 |       |   |
-| installeren benodigde software             |       |   |
-| zoeken modules en libraries                |       |   |
+| maken E.R.D.                               |   1    | 1  |
+| opzetten DATABASE.                         |     1x  |1   |
+| Basic CRUD                                 |   1x    | 2  |
+| installeren benodigde software             |   1x    | .5  |
+| zoeken modules en libraries                |   ~    | (+/-) 2  |
 | opzetten en documenteren ontwikkelomgeving |       |   |
-| Navigatie                                  |       |   |
-| opzetten M.V.C. basis routing              |       |   |
+| Navigatie                                  |     1x  |  .5 |
+| opzetten M.V.C. basis routing              |    1x   | .5  |
 | opzetten basis logs via controller         |       |   |
-| Vullen database met mockup-data            |       |   | 
+| Vullen database met mockup-data            |    ~   | 10m?  | 
 | Maken templates in HTML                    |   4x  |   | 
-| Opzetten Sass                              |       |   | 
-| ontwerpen page templates in HTML/CSS       |   4x  |   | 
-| View per Template in Smarty /PHP           |   4x  |   | 
-| RSSView per Template in Smarty /PHP        |   4x  |   | 
-| Opzetten pagina's                          |       |   | 
-| invullen templates                         |   4x  |   | 
-| Search Form                                |    1x |   | 
-| Search Suggestions                         |       |   | 
-| Search Results                             |       |   | 
-| AgendaModel                                |       |   | 
-| AgendaView                                 |       |   | 
-| Admin inlog                                |       |   | 
-| Admin tools voor statistieken              |       |   | 
+| Opzetten Sass                              |       |  1 | 
+| ontwerpen page templates in HTML/CSS       |   4x  | 4  | 
+| View per Template in Smarty /PHP           |   4x  | 4  | 
+| RSSView per Template in Smarty /PHP        |   4x  |  4 | 
+| Opzetten pagina's                          |       |  3 | 
+| invullen templates                         |   4x  |  1 | 
+| Search Form                                |    1x |  1 | 
+| Search Suggestions                         |      1x |2   | 
+| Search Results                             |      1x |1   | 
+| AgendaModel                                |     1x  |  ? | 
+| AgendaView                                 |       1x|   ?| 
+| Admin inlog                                |       1x|  ? | 
+| Admin tools voor statistieken              |       1x| ?  | 
 
 ##### Aspect 3
 | Onderdeel        | Aantal           |  Uren           |
 | ------------- |-------------:|-------------:| 
-| (soft) live zetten en testen   |       |   |
-| testen SEO                     |       |   |
-| schrijven test rapport         |       |   |
-| Optimalisatie plan             |       |   |
-| Controleren statistieken       |       |   |
-| aanpassen / bugs               |       |   |
-| live zettenn                   |       |   |
-| Verzamelen nieuwe statistieken |       |   |
-| Aanpassen Optimalisatie plan   |       |   |
-| Bonus punten                   |       |   |
-| Evaluatie                      |       |   |
-| Presentatie                    |       |   |
+| (soft) live zetten en testen   |    1x   | 1  |
+| testen SEO                     |    ~x   | 2  |
+| schrijven test rapport         |    ^ ~x   | ~ x 1h  (schat ~~ 1) |
+| Optimalisatie plan             |    1x   |  1h |
+| Controleren statistieken       |    ~x   | ~ x 1h (schat ~~ 1) |
+| aanpassen / bugs               |    ~x   | ~ x 1h (schat ~~ 3)  |
+| live zetten                   |     1x  | 1  |
+| Verzamelen nieuwe statistieken |   ~x    | 2h  |
+| Aanpassen Optimalisatie plan   |   ~x    | 1  |
+| Bonus punten                   |    ~x   | (hoeveel uur er nog over blijft.)  |
+| Evaluatie                      |    1x   | 2h  |
+| Presentatie                    |    ~x   |  ~ x 20m (schat ~~ 1)  |
 
