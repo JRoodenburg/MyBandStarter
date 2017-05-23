@@ -13,7 +13,7 @@ De website is enigszins te vergelijken met de officiele Rainbow Six Siege Websit
 | readme                         | DONE |  [readme.md]            | *MarkDown op github |
 | b1-k1-w1 debriefing            | DONE | [Debriefing]            | Google Doc Comment enabled |
 | b1-k1-w1 bepaling uitgangspunt | DONE | [Leidraad_uitgangspunt.md] | *Markdown |
-| b1-k1-w2 Urenschatting         | TODO | [doc/1/urenschatting.md]| *Markdown |
+| b1-k1-w2 Urenschatting         | DONE | [doc/1/urenschatting.md]| *Markdown |
 | b1-k1-w2 Planning              | TODO | [doc/1/planning.md]     | *Markdown |
 | b1-k1-w2 Plan van aanpak       | TODO | [doc/1/PvA.rtf]         | Rich Text Format |
 | b1-k1-w2 Sfeer impressie       | TODO | [doc/1/moodboard]       | PNG Image op deviantArt |
@@ -25,7 +25,7 @@ De website is enigszins te vergelijken met de officiele Rainbow Six Siege Websit
    [Leidraad_uitgangspunt.md]: <https://github.com/JRoodenburg/MyBandStarter/blob/master/doc/1/uitgangspunt.md>
    [Debriefing]: <https://docs.google.com/document/d/1Mp6vGkDmcpq8uUKAiWGJF0m14qyNxp_DJnRB8dqki2Q/edit?usp=sharing>
    [doc/1/PvA.rtf]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/PvA.rtf>
-   [doc/1/urenschatting.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/Urenschatting.md>
+   [doc/1/urenschatting.md]: <https://github.com/JRoodenburg/MyBandStarter/blob/master/doc/1/Urenschatting.md>
    [doc/1/planning.md]: <https://github.com/HjalmarSnoep/MyBandStarter/blob/master/doc/1/planning.md>
    [doc/1/moodboard]: <https://www.google.nl/search?q=moodboard&tbm=isch>
    [FO]: <https://github.com/jouwgithub/doc/1/FO.md>

@@ -19,13 +19,13 @@ Dit is versie 0.0
 ##### WEEK2
 |         | ma 22/5 | di 23/5 | wo 24/5 | do 25/5 | vr 26/5 | weekend |
 | ------ |------ | ---- | ------ |---- |------ |---- | 
-| 1ste uur | | | | | |  |
-| 2de uur | | | | | |  |
+| 1ste uur |debriefing| | | | |  |
+| 2de uur |debriefing | | | | |  |
 | 3de uur | | | | | |  |
 | 4de uur | | | | | |  |
 | 5de uur | | | | | |  |
 | 6de uur | | | | | |  |
-| 7de uur | | | | | |  |
+| 7de uur | urenschatting| | | | |  |
 | 8de uur | | | | | |  |
 
 ##### WEEK3
